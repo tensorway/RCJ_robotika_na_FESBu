@@ -1,8 +1,8 @@
 # Dimenzije
 
 ## line_senzori
-line1 ---> https://www.microline.hr/HTML.ashx?_command=showItem&itemKey=mrm-ref-a \
-line9 ---> https://www.microline.hr/HTML.ashx?_command=showItem&itemKey=mrm-ref-can 
+line_senzor_1 ---> https://www.microline.hr/HTML.ashx?_command=showItem&itemKey=mrm-ref-a \
+line_senzor_9 ---> https://www.microline.hr/HTML.ashx?_command=showItem&itemKey=mrm-ref-can 
 
 
 ## motori i hubovi
@@ -42,3 +42,8 @@ voltmetar ---> https://www.microline.hr/HTML.ashx?_command=showItem&itemKey=mrm-
 
 ## napajanja
 power supply 3xB ---> https://www.microline.hr/HTML.ashx?_command=showItem&itemKey=mrm-ps3xb
+
+
+## baterije 
+baterija3000 ---> 105 x 35 x 30 (214g)
+baterija1800 ---> 115 x 35 x 21 (161g)
